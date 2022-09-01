@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mattia-tatone
 - 👀 I’m interested in JavaScript, TypeScript, Node.JS, .NET, Java, Angular, Ionic, ExpressJS.
 - 🌱 I’m currently learning RUST, python.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: mattiatatone@hotmail.it
